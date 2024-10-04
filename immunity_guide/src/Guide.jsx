@@ -60,7 +60,7 @@ export default function Guide() {
 
     return ( 
         <>
-            <div style={{ display: "grid", transform: 'translateY(-3%)'} }>
+            <div style={{ display: "grid", transform: 'translateY(-3%)', overflowX: 'hidden'} }>
             <svg width="1270" height="850" viewBox="0 0 8659 8224" fill="none" xmlns="http://www.w3.org/2000/svg" xmlnslink="http://www.w3.org/1999/xlink">
                 <g clip-path="url(#clip0_4153_142)">
                     <rect width="8659" height="8224" fill="white" />
