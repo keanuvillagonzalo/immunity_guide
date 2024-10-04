@@ -11,7 +11,7 @@ import 'swiper/css/pagination';
 import 'swiper/css/navigation';
 
 import './elements.css'
-import Virus from './Virus'
+import Virus from './virus'
 import Parasite from './Parasite';
 
 export default function WorldTravel({ worldstyle }) {
