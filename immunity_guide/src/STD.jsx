@@ -11,7 +11,7 @@ import 'swiper/css/pagination';
 import 'swiper/css/navigation';
 
 import './elements.css'
-import Virus from './Virus'
+import Virus from './virus'
 
 export default function STD({stdstyle }) { 
     return (
