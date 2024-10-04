@@ -1,0 +1,7 @@
+#hoverCircle {
+    transition: fill 0.3s ease;
+}
+
+    #hoverCircle:hover {
+        fill: #9BA2FF;
+    }

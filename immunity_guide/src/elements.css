@@ -1,0 +1,59 @@
+.Element {
+    width: 57rem;
+    height: 13rem;
+        transform: translate(20%, -140%);
+        
+        
+        text-align: left;
+}
+.Square {
+    width: 25%;
+    height: 80%;
+    transform: translateY(25%);
+    border-top: 5px solid #D9D9D9;
+    border-bottom: 5px solid #D9D9D9;
+    border-right: 5px solid #D9D9D9;
+}
+.font1 {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 2rem;
+    color: #18206F;
+}
+
+.font2 {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 1.3rem;
+    color: #9BA2FF;
+}
+
+.container5 {
+    height: 25%;
+    display: flex;
+    align-items: center;
+}
+.container6 {
+    margin: 1rem;
+}
+.text6 {
+    font-family: 'PT sans', sans-serif;
+    font-size: 1rem;
+    color: #8D8D8D;
+    position: relative;
+    left: 1rem;
+}
+
+.text7 {
+    font-family: 'PT sans', sans-serif;
+    color: #8D8D8D;
+    font-size: 0.8rem;
+}
+
+.swiper {
+    width: 100%;
+    height: 100%;
+}
+
+.swiper-slide{
+    width:100%;
+    height: 100%;
+}
